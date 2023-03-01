@@ -55,5 +55,4 @@ fn main() {
     println!("the mean is {}", my_data.get_variance());
     println!("the mean is {}", my_data.get_standard_deviation());
 
-
 }
