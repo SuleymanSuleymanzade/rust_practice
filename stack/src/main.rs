@@ -24,7 +24,8 @@ fn input()->i32{
 
 fn main() {
     let a:i32 = input();
-    println!("{}", a);
-        
+    let b:i32 = input();
+    
+    
 
 }
